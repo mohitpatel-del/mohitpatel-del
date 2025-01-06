@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: [List of Programming Languages]
-- Frameworks: [List of Frameworks]
-- Tools: [List of Tools]
+- Programming Languages: [javaScript, JAVA, Python]
+- Frameworks: [Flask, Bootstrap]
+- Tools: [Intellij IDEA, VS Code]
 
 ## GitHub Stats
 
@@ -27,8 +27,6 @@ Here are some of the technologies and tools I work with:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website](https://your-website.com)
+- [LinkedIn](https://www.linkedin.com/in/mohit-patel-5643372b9/)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
