@@ -4,14 +4,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## About Me
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [New Technology or Skill]
-- 👯 I’m looking to collaborate on [Projects or Areas of Interest]
-- 🤔 I’m looking for help with [Specific Issue or Challenge]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Email Address]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I’m currently working on a Hogwarts Admission App.
+- 🌱 I’m currently learning IoT.
+- 💬 Ask me about JSE.
+- 📫 How to reach me: mp434027@gmail.com
 
 ## Languages and Tools
 
